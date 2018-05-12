@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31565
 description: The author was an assistant surgeon on the USS Valley City between 1864
   and 1865.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25764#Reminiscences-of-Two-Years-in-the-United-States-Navy
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2008-06-12'
 gutenberg_type: Text

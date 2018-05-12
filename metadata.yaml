@@ -1,0 +1,29 @@
+_repo: Reminiscences-of-Two-Years-in-the-United-States-Navy_25764
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Batten, John M. (John Mullin)
+    birthdate: 1837
+    deathdate: 1916
+    gutenberg_agent_id: '31565'
+    url: http://www.gutenberg.org/2009/agents/31565
+description: The author was an assistant surgeon on the USS Valley City between 1864
+  and 1865.
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2008-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25764'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Naval operations'
+- !lcc 'E456'
+title: Reminiscences of Two Years in the United States Navy
+url: http://www.gutenberg.org/ebooks/25764
